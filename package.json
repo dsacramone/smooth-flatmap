@@ -1,0 +1,36 @@
+{
+  "name": "flatmap",
+  "version": "1.0.0",
+  "description": "Smallish Utility to unwind any level nested arrays or objects into a single array with all the values extracted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsacramone/flatMap.git"
+  },
+  "keywords": [
+    "flatmap",
+    "concat",
+    "flat",
+    "map",
+    "arrays",
+    "flatten",
+    "objects",
+    "merge"
+  ],
+  "author": "Dean Sacramone <deansacramone@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsacramone/flatMap/issues"
+  },
+  "homepage": "https://github.com/dsacramone/flatMap#readme",
+  "devDependencies": {
+    "babel-jest": "15.0.0",
+    "babel-polyfill": "6.13.0",
+    "babel-preset-es2015": "6.14.0",
+    "babel-preset-stage-2": "6.13.0",
+    "jest-cli": "15.1.1"
+  }
+}
